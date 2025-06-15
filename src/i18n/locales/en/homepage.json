@@ -1,0 +1,19 @@
+{
+  
+  "welcome": "Welcome to Soukai",
+  "description": "Supplying restaurants with quality goods, daily.",
+  "cta": "Explore Products",
+  "service1_title": "Daily Delivery",
+  "service1_desc": "Timely deliveries of fresh produce and essentials.",
+  "service2_title": "Bulk Supply",
+  "service2_desc": "Cost-efficient packages for high-volume kitchens.",
+  "service3_title": "Custom Orders",
+  "service3_desc": "Tailored supply solutions for specific needs.",
+  "about_title": "About Soukai",
+  "about_desc": "Soukai is your reliable restaurant supply partner, serving 30+ kitchens with daily essentials.",
+  "contact_title": "Contact Us",
+  "contact_name": "Your Name",
+  "contact_email": "Your Email",
+  "contact_message": "Your Message",
+  "contact_submit": "Send Message"
+}

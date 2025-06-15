@@ -1,0 +1,48 @@
+{
+  "welcome": "Fresh Vegetables Delivered to Your Restaurant",
+  "description": "Supplying restaurants with quality goods, daily. At Soukai, we specialize in providing top-quality, farm-fresh vegetables tailored to the specific needs of restaurants. Whether you're a boutique cafe or a large-scale kitchen, our flexible ordering system ensures you get exactly what you need — fresh, fast, and reliable.",
+  "cta": "Explore Products",
+  "home": "Home",
+  "products": "Products",
+  "about": "About",
+  "contact":{
+    "title":"Contact Us",
+    "description":"Got questions or want to place a custom order? We're here to help.",
+    "inputname":"Your Company Name",
+    "inputemail":"Your Company Email",
+    "inputmessage":"Message",
+    "submitaction":"Submit"
+
+  },
+  "contactustitle":"Contact Us",
+  "contactusdescription":"Got questions or want to place a custom order? We're here to help.",
+  "aboutdescription":"Soukai was founded with the vision of making fresh, local produce accessible to restaurants of all sizes. We work closely with a network of trusted farms to ensure quality, traceability, and sustainability in every delivery. Our platform enables restaurants to customize orders based on seasonality and menu requirements, creating a seamless farm-to-kitchen experience.",
+  "service1_title": "Customized Bulk Supply",
+  "service1_desc": "Order vegetables based on your unique menu and volume needs. No waste, just what you need.",
+  "service2_title": "Farm Fresh Quality",
+  "service2_desc": "We source directly from trusted farms to deliver the freshest produce every time.",
+  "service3_title": "Reliable Delivery",
+  "service3_desc": "Count on Soukai for on-time deliveries so your kitchen runs smoothly and efficiently.",
+  "services": {
+    "title":"Services",
+    "customized": {
+      "title": "Customized Supply",
+      "desc": "Order vegetables based on your unique menu and volume needs. No waste, just what you need."
+    },
+    "farmFresh": {
+      "title": "Farm Fresh Quality",
+      "desc": "We source directly from trusted farms to deliver the freshest produce every time."
+    },
+    "reliableDelivery": {
+      "title": "Reliable Delivery",
+      "desc": "Count on Soukai for on-time deliveries so your kitchen runs smoothly and efficiently."
+    }
+  },
+  "about_title": "About Soukai",
+  "about_desc": "Soukai is your reliable restaurant supply partner, serving 30+ kitchens with daily essentials.",
+  "contact_title": "Contact Us",
+  "contact_name": "Your Name",
+  "contact_email": "Your Email",
+  "contact_message": "Your Message",
+  "contact_submit": "Send Message"
+}
