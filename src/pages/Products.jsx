@@ -27,7 +27,7 @@ const Products = () => {
           opacity: 1,
           y: 0,
           duration: 0.1,
-          stagger: 0.2,
+          stagger: 0.3 ,
           ease: 'power2.out',
           scrollTrigger: {
             trigger: '.categories',
@@ -48,10 +48,9 @@ const Products = () => {
         {ProductsCategory.map((item) => (
           <div
             key={item.id}
-
-            className="categorie flex flex-col justify-center items-center rounded-2xl shadow-lg p-6 bg-green-50 hover:bg-green-100 transition duration-300 text-center"
+            className="categorie flex flex-col justify-center items-center rounded-2xl border border-gray-200 p-6 hover:bg-gray-100 duration-100 text-center"
           >
-            <img height={80} width={80} alt='category images' className="" src={item.imgKey} />
+            <img height={80} width={80} alt='category images' className="hover:scale-150 transition-transform duration-300" src={item.imgKey} />
             <h3 className="text-xl font-semibold">{item.titleKey}</h3>
             <button onClick={()=>handleViewProduct(item.id)} className="mt-4 bg-green-900 text-white px-4 py-2 rounded-xl hover:bg-green-700 transition">
               Order Now
