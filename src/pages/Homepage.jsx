@@ -8,6 +8,7 @@ import Products from './Products';
 import Testimonails from './Testimonails';
 import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
+import Consumers from './Consumers';
 
 const Homepage = () => {
 
@@ -42,7 +43,8 @@ const Homepage = () => {
       <WhySoukai id="whysoukai" />
       <About id="about" />
       <Testimonails />
-      <Contact />
+      <Consumers />
+      <Contact /> 
     </div>
   )
 }

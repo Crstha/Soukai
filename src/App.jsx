@@ -8,6 +8,7 @@ import Homepage from './pages/Homepage'
 import ViewProducts from './pages/ViewProducts'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import Login from './pages/Login'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -27,6 +28,7 @@ function App() {
       <Navbar switchLanguage={switchLanguage} language={language} />
       <Routes >
         <Route path="/" element={<Homepage />} />
+        <Route path="/login" element={<Login />} />
         <Route path="/product" element={<Homepage />} />
         <Route path="/view-product/:id" element={<ViewProducts />} />
       </Routes>
