@@ -1,13 +1,16 @@
-import React, { useEffect, useLayoutEffect, useRef } from 'react'
+import React, { useLayoutEffect, useRef } from 'react'
 
 import { partners } from '../constants';
 import gsap from 'gsap';
 
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { useTranslation } from 'react-i18next';
 
 gsap.registerPlugin(ScrollTrigger);
 
 const Consumers = () => {
+
+    const {t} = useTranslation();
     const marqueeRef = useRef();
 
     useLayoutEffect(() => {
@@ -26,10 +29,10 @@ const Consumers = () => {
     return (<section className="bg-white py-12 overflow-hidden mt-20">
         <div className="text-center mb-8">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-800">
-                Restaurants using Soukai
+               {t('restaurantsUsedByTitle')}
             </h2>
             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                Trusted by restaurants that value freshness, speed, and quality.
+                {t('restaurantsUsedByDesc')}
             </p>
         </div>
 

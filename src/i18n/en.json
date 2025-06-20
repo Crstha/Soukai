@@ -5,18 +5,17 @@
   "home": "Home",
   "products": "Products",
   "about": "About",
-  "contact":{
-    "title":"Contact Us",
-    "description":"Got questions or want to place a custom order? We're here to help.",
-    "inputname":"Your Company Name",
-    "inputemail":"Your Company Email",
-    "inputmessage":"Message",
-    "submitaction":"Submit"
-
+  "contact": {
+    "title": "Contact Us",
+    "description": "Got questions or want to place a custom order? We're here to help.",
+    "inputname": "Your Company Name",
+    "inputemail": "Your Company Email",
+    "inputmessage": "Message",
+    "submitaction": "Submit"
   },
-  "contactustitle":"Contact Us",
-  "contactusdescription":"Got questions or want to place a custom order? We're here to help.",
-  "aboutdescription":"Soukai was founded with the vision of making fresh, local produce accessible to restaurants of all sizes. We work closely with a network of trusted farms to ensure quality, traceability, and sustainability in every delivery. Our platform enables restaurants to customize orders based on seasonality and menu requirements, creating a seamless farm-to-kitchen experience.",
+  "contactustitle": "Contact Us",
+  "contactusdescription": "Got questions or want to place a custom order? We're here to help.",
+  "aboutdescription": "Soukai was founded with the vision of making fresh, local produce accessible to restaurants of all sizes. We work closely with a network of trusted farms to ensure quality, traceability, and sustainability in every delivery. Our platform enables restaurants to customize orders based on seasonality and menu requirements, creating a seamless farm-to-kitchen experience.",
   "service1_title": "Customized Bulk Supply",
   "service1_desc": "Order vegetables based on your unique menu and volume needs. No waste, just what you need.",
   "service2_title": "Farm Fresh Quality",
@@ -24,7 +23,7 @@
   "service3_title": "Reliable Delivery",
   "service3_desc": "Count on Soukai for on-time deliveries so your kitchen runs smoothly and efficiently.",
   "services": {
-    "title":"Services",
+    "title": "Services",
     "customized": {
       "title": "Customized Supply",
       "desc": "Order vegetables based on your unique menu and volume needs. No waste, just what you need."
@@ -40,9 +39,40 @@
   },
   "about_title": "About Soukai",
   "about_desc": "Soukai is your reliable restaurant supply partner, serving 30+ kitchens with daily essentials.",
+  "testimonialsTitle": "Testimonials",
+  "testimonialsDesc": "What our clients say about us",
+  "testies": {
+    "sita": {
+      "name": "Sita Shrestha",
+      "post": "Head Chef",
+      "restaurant": "Suranje",
+      "saying": "Soukai always delivers fresh ingredients right on time. Their service has streamlined our kitchen workflow!"
+    },
+    "ramesh": {
+      "name": "Ramesh Khatri",
+      "post": "Head Manager",
+      "restaurant": "Bhatti Lakhey",
+      "saying": "Working with Soukai has been a game-changer. We no longer worry about inventory — it's always taken care of."
+    },
+    "aarati": {
+      "name": "Aarati Lama",
+      "post": "Purchasing Head",
+      "restaurant": "Suranje",
+      "saying": "Their organic juice and wine selection is top-notch. Highly reliable for custom orders too."
+    },
+    "dipen": {
+      "name": "Dipen Maharjan",
+      "post": "Executive Chef",
+      "restaurant": "Suranje",
+      "saying": "Fresh vegetables, no delays, and excellent customer support — Soukai is our first choice."
+    }
+  },
+  "restaurantsUsedByTitle": "Restaurants using Soukai",
+  "restaurantsUsedByDesc": "Trusted by restaurants that value freshness, speed, and quality.",
   "contact_title": "Contact Us",
   "contact_name": "Your Name",
   "contact_email": "Your Email",
   "contact_message": "Your Message",
-  "contact_submit": "Send Message"
+  "contact_submit": "Send Message",
+  "footer":"Soukai. All rights reserved."
 }

@@ -43,7 +43,7 @@ const Homepage = () => {
       <WhySoukai id="whysoukai" />
       <About id="about" />
       <Testimonails />
-      <Consumers />
+      <Consumers id="consumers"/>
       <Contact /> 
     </div>
   )

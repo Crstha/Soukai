@@ -40,9 +40,40 @@
 
   "about_title": "Soukaiについて",
   "about_desc": "Soukaiは信頼できるレストラン供給パートナーとして、30以上の店舗に毎日商品を届けています。",
+    "testimonialsTitle":"お客様の声",
+  "testimonialsDesc":"顧客が私たちについて語っていることは",
+  "testies": {
+    "sita": {
+      "name": "シータ・シュレスタ",
+      "post": "ヘッドシェフ",
+      "restaurant": "スランジェ",
+      "saying": "Soukaiはいつも新鮮な食材を時間通りに届けてくれます。彼らのサービスのおかげで、キッチンのワークフローが効率化されました！"
+    },
+    "ramesh": {
+      "name": "ラメシュ・カトリ",
+      "post": "ヘッドマネージャー",
+      "restaurant": "バティ・ラケイ",
+      "saying": "Soukaiとの連携は画期的な出来事でした。在庫管理を心配する必要がなくなり、常に管理が行き届いています。"
+    },
+    "aarati": {
+      "name": "アーラティ・ラマ",
+      "post": "購買責任者",
+      "restaurant": "スランジェ",
+      "saying": "オーガニックジュースとワインの品揃えは一流。特注品も安心して頼めます。"
+    },
+    "dipen": {
+      "name": "ディペン・マハルジャン",
+      "post": "エグゼクティブシェフ",
+      "restaurant": "スランジェ",
+      "saying": "新鮮な野菜、遅延なし、優れたカスタマー サポート — Soukai が私たちの第一候補です。"
+    }
+  },
+  "restaurantsUsedByTitle":"爽快をご利用いただいているレストラン",
+  "restaurantsUsedByDesc":"鮮度、スピード、品質を重視するレストランから信頼されています。",
   "contact_title": "お問い合わせ",
   "contact_name": "お名前",
   "contact_email": "メールアドレス",
   "contact_message": "メッセージ内容",
-  "contact_submit": "送信する"
+  "contact_submit": "送信する",
+    "footer":"爽快. All rights reserved."
 }
